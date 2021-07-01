@@ -13,7 +13,7 @@ ms.topic: article
 
 # Device requirements
 
-Microsoft Managed Desktop regularly evaluates device requirements to be included in the service. This article describes the hardware and software requirements a device must meet in order to work with Microsoft Managed Desktop. You can review a list of specific devices already approved for use with the service based on these requirements. Filter for Microsoft Managed Desktop on the [Shop Windows 10 Pro business devices](https://www.microsoft.com/windowsforbusiness/view-all-devices) site
+Microsoft Managed Desktop regularly evaluates device requirements to be included in the service. This article describes the hardware and software requirements a device must meet in order to work with Microsoft Managed Desktop. You can review a list of specific devices for use with the service that meet these requirements on the [Shop Windows 10 Pro business devices](https://www.microsoft.com/windowsforbusiness/view-all-devices) site by filtering for Microsoft Managed Desktop. When ordering new devices, please ensure you reference our section on [Device Procurement](https://docs.microsoft.com/en-us/microsoft-365/managed-desktop/service-description/device-images?view=o365-worldwide#new-devices) to ensure your device comes with a compliant image. 
 
 > [!NOTE]
 > These requirements can change at any time, but we will provide 30 days notice of any hardware requirement changes. The requirements most recently changed are marked with **\***. 
